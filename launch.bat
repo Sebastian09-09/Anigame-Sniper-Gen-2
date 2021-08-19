@@ -1,8 +1,8 @@
 @echo off
 cls
 title Anigame Sniper Modules Installer
-py -3.8 -m pip install datetime
-py -3.8 -m pip install colorama
-py -3.8 -m pip install discord.py
+pip install datetime
+pip install colorama
+pip install discord.py
 echo Finished!
 pause
