@@ -31,6 +31,11 @@ Anigame Sniper Commands-
 9) {prefix}latency | To see the bots latency set by you.
 10) {prefix} setlatency (latency should be a number)| To set the bots latency.
 
+## Features 
+- snipes only where you want it to
+- custom prefix
+- customizable delay to claim cards  
+
 ## Disclaimer
 This is against TOS and can get your account banned , use at your own risk!
 
