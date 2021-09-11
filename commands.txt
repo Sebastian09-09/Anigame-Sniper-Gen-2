@@ -3,7 +3,7 @@ Anigame Sniper Commands-
 2) {prefix}remove | To turn OFF sniper in the specific channel 
 3) {prefix}clear | To turn OFF sniper in every channel 
 4) {prefix}ping | To check how fast the bot is (depends on your internet speed)
-5) {prefix}snipers | To check the status os snipers
+5) {prefix}snipers | To check the status of snipers
 6) {prefix}channels | To check the channels that are being sniped 
 7) {prefix}anigametoggle (y/n) | To turn on Anigame Sniper (y = ON / n = OFF)
 8) {prefix}izzitoggle(y/n) | To turn on Izzi Sniper (y = ON / n = OFF)  
