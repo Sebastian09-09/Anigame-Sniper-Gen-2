@@ -16,6 +16,7 @@ You all know the previous generation got beated up really bad by discord..
 3) Input your discord accounts token , you bots token , prefix and how long you want the bot to wait before claiming(LATENCY(it should be an integer)) 
 4) Run frontend.py
 5) Run backend.py
+- [Youtube Tutorial](https://www.youtube.com/watch?v=uxbPbf6JZ04)
 
 ## [Commands](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-2/blob/main/commands.txt)
 Anigame Sniper Commands-
