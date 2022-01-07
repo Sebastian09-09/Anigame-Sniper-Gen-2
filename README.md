@@ -1,4 +1,5 @@
 # Anigame-Sniper-Gen-2
+## This gen no longer works , use the [third gen](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-3)
 Anigame Sniper Gen 2 , this is generation 2 Anigame Sniper , its made to autoclaim anigame cards and is a tribute to 1st gen anigame sniper.. ig lol..
 You all know the previous generation got beated up really bad by discord..
 
